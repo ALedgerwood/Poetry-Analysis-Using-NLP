@@ -13,10 +13,10 @@ I was able to extract the text of the poem from a pdf.
 
 I used the steps from the tutorial to do nlp on the poem:
 
-remove stop words,
+- remove stop words
 
-lemmatize
+- lemmatize
 
-look at the five most common words
+- look at the five most common words
 
-extract just the adjectives using POS tagging
+- extract just the adjectives using POS tagging
