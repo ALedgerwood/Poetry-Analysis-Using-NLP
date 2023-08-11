@@ -11,4 +11,12 @@ I worked through the tutorial steps, adding explanatory markdown.
 
 I was able to extract the text of the poem from a pdf.
 
-I used the steps from the tutorial to remove stop words, lemmatize the poem, look at the five most common words, and look at jsut the adjectives using POS tagging.
+I used the steps from the tutorial to do nlp on the poem:
+
+remove stop words,
+
+lemmatize
+
+look at the five most common words
+
+extract just the adjectives using POS tagging
