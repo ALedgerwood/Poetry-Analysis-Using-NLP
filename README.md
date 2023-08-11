@@ -6,6 +6,9 @@ Tutorial from RealPython https://realpython.com/natural-language-processing-spac
 Poem "The Hilly We Climb" by Amanda Gorman https://readingwise.com/assets/uploads/pdf/The_Hill_We_Climb_Transcript.pdf
 
 Learning Outcomes:
+
 I worked through the tutorial steps, adding explanatory markdown.
+
 I was able to extract the text of the poem from a pdf.
+
 I used the steps from the tutorial to remove stop words, lemmatize the poem, look at the five most common words, and look at jsut the adjectives using POS tagging.
